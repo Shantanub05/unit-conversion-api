@@ -207,16 +207,6 @@ unit-conversion-api/
 └── README.md                     # This file
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/add-new-category`)
-3. Write tests for your changes
-4. Ensure all tests pass (`dotnet test`)
-5. Commit your changes (`git commit -m 'Add new conversion category'`)
-6. Push to the branch (`git push origin feature/add-new-category`)
-7. Open a Pull Request
-
 ## License
 
 This project is provided as-is for evaluation purposes.
