@@ -4,16 +4,16 @@ A production-quality **ASP.NET Core Web API** for converting numerical values be
 
 ## Features
 
-- 🔄 **6 Conversion Categories**: Length, Temperature, Weight/Mass, Area, Volume, Speed
-- 📏 **31+ Units** with accurate conversion factors and formulas
-- 📖 **Interactive Swagger UI** for API exploration at `/swagger`
-- 🔍 **Discovery Endpoints** to list all supported units and categories
-- 🏗️ **Strategy Pattern Architecture** designed for extensibility to hundreds of units
-- 📝 **Structured Logging** with Serilog for production-grade observability
-- ⚠️ **Global Exception Handling** with RFC 9110 ProblemDetails responses
-- 🐳 **Docker Support** for one-command local setup
-- ✅ **Comprehensive Tests** with xUnit and FluentAssertions
-- 🔄 **CI/CD Pipeline** with GitHub Actions
+- **6 Conversion Categories**: Length, Temperature, Weight/Mass, Area, Volume, Speed
+- **31+ Units** with accurate conversion factors and formulas
+- **Interactive Swagger UI** for API exploration at `/swagger`
+- **Discovery Endpoints** to list all supported units and categories
+- **Strategy Pattern Architecture** designed for extensibility to hundreds of units
+- **Structured Logging** with Serilog for production-grade observability
+- **Global Exception Handling** with RFC 9110 ProblemDetails responses
+- **Docker Support** for one-command local setup
+- **Comprehensive Tests** with xUnit and FluentAssertions
+- **CI/CD Pipeline** with GitHub Actions
 
 ## Prerequisites
 
