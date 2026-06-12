@@ -62,3 +62,6 @@ docker-compose.override.yml
 
 ## Local Docs
 docs/
+
+## GitHub Workflows
+.github/
